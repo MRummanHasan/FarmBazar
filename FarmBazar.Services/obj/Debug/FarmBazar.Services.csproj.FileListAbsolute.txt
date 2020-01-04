@@ -1,0 +1,16 @@
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\obj\Debug\FarmBazar.Services.csprojAssemblyReference.cache
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\FarmBazar.Services.dll.config
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\FarmBazar.Services.dll
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\FarmBazar.Services.pdb
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\EntityFramework.dll
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\FarmBazar.Database.dll
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\FarmBazar.Entities.dll
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\FarmBazar.Database.pdb
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\FarmBazar.Database.dll.config
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\FarmBazar.Entities.pdb
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\EntityFramework.xml
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\obj\Debug\FarmBazar.Services.csproj.CopyComplete
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\obj\Debug\FarmBazar.Services.dll
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Services\obj\Debug\FarmBazar.Services.pdb

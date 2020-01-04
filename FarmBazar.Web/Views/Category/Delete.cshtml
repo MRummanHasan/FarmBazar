@@ -1,0 +1,16 @@
+﻿@model FarmBazar.Entities.Category
+@{
+	ViewBag.Title = "Delete";
+}
+
+<h2>Delete Category</h2>
+
+<h1>ARE YOU SURE</h1>
+
+<form method="post">
+	<input name="ID" value="@Model.ID" disabled />
+	<br />
+	<button type="submit">Yes Delete</button>
+</form>
+
+<a href="/Category/Index">Cancel</a>

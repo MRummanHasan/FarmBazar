@@ -1,0 +1,15 @@
+﻿@model List<FarmBazar.Entities.Category>
+@*// to access the entitity from class*@
+
+
+@{
+	ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@foreach (var category in Model)
+{
+	<h1>@category.Name</h1>
+}
+

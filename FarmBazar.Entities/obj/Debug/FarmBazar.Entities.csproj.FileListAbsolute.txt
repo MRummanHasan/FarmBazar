@@ -1,0 +1,5 @@
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Entities\bin\Debug\FarmBazar.Entities.dll
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Entities\bin\Debug\FarmBazar.Entities.pdb
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Entities\obj\Debug\FarmBazar.Entities.csprojAssemblyReference.cache
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Entities\obj\Debug\FarmBazar.Entities.dll
+C:\Users\hussain\source\repos\FarmBazar\FarmBazar.Entities\obj\Debug\FarmBazar.Entities.pdb
